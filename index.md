@@ -1,13 +1,13 @@
 
-### Melika Zamanzadeh
-<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/psld_showstdpic.gif" border="0" alt="آپلود عکس" /></a>
+### masoumeh ghashghayi
+<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/23mu_whatsapp_image_2020-12-13_at_3.35.27_pm.jpeg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Melika
-+ last name :zamanzadeh
-+ Date of birth : 1997/sep/8
++ name: masoumeh
++ last name :ghashghayi
++ Date of birth : 1997/jan/12
 +  Computer engineering student
 + location : Tehran , I.R.Iran
 
@@ -15,35 +15,29 @@
 ### Skill Highlights
 
 ---
-+ accountant
-+ store software
-+ web design
-+ programming
+
++ ICDL
 + java script
 
 ### Education
 
 ---
-+ Diploma : hananeh school
++ Diploma
 _ 2015
 + Bachelor of science : computer Engineering
-_ 2016,payam Noor University of parand 
+_ 2016,payam Noor University of gharchak
 
 ### Favorites
 
 ---
-+ Web design
+
 + computer games
 + book reading 
 + travel 
 
-### working Experience
 
----
-+ store IT expert
-+ car dealership accounting
 
-### [contact with me](melikaa.zamanzade@gmail.com)
+### [contact with me](masoumeghashghayi@gmail.com)
 
 
 --- 
