@@ -18,6 +18,7 @@
 
 + ICDL
 + java script
++ Istanbul language
 
 ### Education
 
